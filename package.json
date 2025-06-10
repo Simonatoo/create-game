@@ -1,0 +1,29 @@
+{
+  "name": "create-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "create-game": "./index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simonatoo/create-game.git"
+  },
+  "keywords": [
+    "CLI"
+  ],
+  "author": "Guilherme Simonato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simonatoo/create-game/issues"
+  },
+  "homepage": "https://github.com/Simonatoo/create-game#readme",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
